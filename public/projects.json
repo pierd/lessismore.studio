@@ -1,0 +1,218 @@
+[
+  {
+    "id": "this-is",
+    "title": "This is...",
+    "iconUrl": "/project-icons/this-is.svg",
+    "url": "https://this-is.lessismore.studio",
+    "createdAt": "2025-05-26T15:52:36+02:00",
+    "description": {
+      "en": "A creativity game where each new object should be unlike the previous ones.",
+      "es": "Un juego de creatividad donde cada objeto nuevo debe ser distinto de los anteriores.",
+      "pl": "Gra kreatywna, w której każdy nowy obiekt powinien różnić się od poprzednich."
+    },
+    "theme": {
+      "light": {
+        "start": "#eceff5",
+        "end": "#d6deef",
+        "text": "#1f2937"
+      },
+      "dark": {
+        "start": "#202635",
+        "end": "#2b3245",
+        "text": "#eef2ff"
+      }
+    }
+  },
+  {
+    "id": "units",
+    "title": "Units",
+    "iconUrl": "/project-icons/units.svg",
+    "url": "https://units.lessismore.studio",
+    "createdAt": "2026-02-09T12:50:51+01:00",
+    "description": {
+      "en": "Convert between common metric and imperial units in a fast, clean interface.",
+      "es": "Convierte unidades métricas e imperiales comunes en una interfaz rápida y limpia.",
+      "pl": "Konwertuj popularne jednostki metryczne i imperialne w szybkim, przejrzystym interfejsie."
+    },
+    "theme": {
+      "light": {
+        "start": "#dff8ff",
+        "end": "#baf2ff",
+        "text": "#0f2a35"
+      },
+      "dark": {
+        "start": "#0c0a14",
+        "end": "#132634",
+        "text": "#e7f9ff"
+      }
+    }
+  },
+  {
+    "id": "spot-the-symbols",
+    "title": "Spot the Symbols",
+    "iconUrl": "/project-icons/spot-the-symbols.svg",
+    "url": "https://spot-the-symbols.lessismore.studio",
+    "createdAt": "2026-02-09T12:12:55+01:00",
+    "description": {
+      "en": "Find tiny symbol differences before time runs out.",
+      "es": "Encuentra pequeñas diferencias entre símbolos antes de que termine el tiempo.",
+      "pl": "Znajdź drobne różnice między symbolami, zanim skończy się czas."
+    },
+    "theme": {
+      "light": {
+        "start": "#f2e8ff",
+        "end": "#e2d2ff",
+        "text": "#2f184f"
+      },
+      "dark": {
+        "start": "#0c0a14",
+        "end": "#2e1447",
+        "text": "#f5ecff"
+      }
+    }
+  },
+  {
+    "id": "misconceptions",
+    "title": "Misconception of the Day",
+    "iconUrl": "/project-icons/misconceptions.svg",
+    "url": "https://misconceptions.lessismore.studio",
+    "createdAt": "2026-02-08T11:46:50+01:00",
+    "description": {
+      "en": "Read one common misconception each day with context and source.",
+      "es": "Lee una idea equivocada común cada día con contexto y fuente.",
+      "pl": "Czytaj codziennie jedno powszechne nieporozumienie wraz z kontekstem i źródłem."
+    },
+    "theme": {
+      "light": {
+        "start": "#fff0ea",
+        "end": "#ffdaca",
+        "text": "#3d1f16"
+      },
+      "dark": {
+        "start": "#0d1117",
+        "end": "#2a1d1a",
+        "text": "#ffece4"
+      }
+    }
+  },
+  {
+    "id": "draw-that-flag",
+    "title": "Draw That Flag",
+    "iconUrl": "/project-icons/draw-that-flag.svg",
+    "url": "https://draw-that-flag.lessismore.studio",
+    "createdAt": "2026-02-06T22:26:31+01:00",
+    "description": {
+      "en": "Draw a country flag from memory, then compare with the original.",
+      "es": "Dibuja una bandera de memoria y compárala con la original.",
+      "pl": "Narysuj flagę państwa z pamięci i porównaj z oryginałem."
+    },
+    "theme": {
+      "light": {
+        "start": "#efe6ff",
+        "end": "#dbc6ff",
+        "text": "#2b1748"
+      },
+      "dark": {
+        "start": "#0c0a14",
+        "end": "#27173a",
+        "text": "#f5ecff"
+      }
+    }
+  },
+  {
+    "id": "borders",
+    "title": "Border Guess",
+    "iconUrl": "/project-icons/borders.svg",
+    "url": "https://borders.lessismore.studio",
+    "createdAt": "2026-01-14T23:52:13+01:00",
+    "description": {
+      "en": "Guess all countries that share a border with the target country.",
+      "es": "Adivina todos los países que comparten frontera con el país objetivo.",
+      "pl": "Zgadnij wszystkie państwa graniczące z podanym krajem."
+    },
+    "theme": {
+      "light": {
+        "start": "#e1fff7",
+        "end": "#c6f5ea",
+        "text": "#11352f"
+      },
+      "dark": {
+        "start": "#0a0f14",
+        "end": "#13302e",
+        "text": "#e7fffa"
+      }
+    }
+  },
+  {
+    "id": "city-coords",
+    "title": "City Coords",
+    "iconUrl": "/project-icons/city-coords.svg",
+    "url": "https://city-coords.lessismore.studio",
+    "createdAt": "2026-01-03T22:45:20+01:00",
+    "description": {
+      "en": "Guess capital cities from latitude and longitude clues.",
+      "es": "Adivina capitales a partir de pistas de latitud y longitud.",
+      "pl": "Zgaduj stolice na podstawie wskazówek szerokości i długości geograficznej."
+    },
+    "theme": {
+      "light": {
+        "start": "#e3fff8",
+        "end": "#caefe6",
+        "text": "#12322e"
+      },
+      "dark": {
+        "start": "#0a0f14",
+        "end": "#123230",
+        "text": "#e5fffa"
+      }
+    }
+  },
+  {
+    "id": "rupl",
+    "title": "Transliteracja RU do PL",
+    "iconUrl": "/project-icons/rupl.svg",
+    "url": "https://pierd.github.io/rupl/",
+    "createdAt": "2024-10-27T22:16:56+01:00",
+    "description": {
+      "en": "Practice transliteration from Russian to Polish with short exercises.",
+      "es": "Practica la transliteración del ruso al polaco con ejercicios breves.",
+      "pl": "Ćwicz transliterację z rosyjskiego na polski w krótkich zadaniach."
+    },
+    "theme": {
+      "light": {
+        "start": "#e6ecff",
+        "end": "#f6e8eb",
+        "text": "#1e293b"
+      },
+      "dark": {
+        "start": "#0f172a",
+        "end": "#2b1a1f",
+        "text": "#f8fafc"
+      }
+    }
+  },
+  {
+    "id": "voice-arkanoid",
+    "title": "Voice Pitch Controlled Arkanoid",
+    "iconUrl": "/project-icons/voice-arkanoid.svg",
+    "url": "https://pierd.github.io/voice-arkanoid",
+    "createdAt": "2024-10-21T10:28:08+02:00",
+    "description": {
+      "en": "Play Arkanoid by controlling the paddle with your voice pitch.",
+      "es": "Juega Arkanoid controlando la paleta con el tono de tu voz.",
+      "pl": "Graj w Arkanoid, sterując paletką wysokością głosu."
+    },
+    "theme": {
+      "light": {
+        "start": "#e7f2ff",
+        "end": "#ddd6ff",
+        "text": "#1e1b4b"
+      },
+      "dark": {
+        "start": "#0b1022",
+        "end": "#1d1b3a",
+        "text": "#eef2ff"
+      }
+    }
+  }
+]
